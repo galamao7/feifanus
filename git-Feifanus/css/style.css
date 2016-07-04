@@ -1,0 +1,30 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    color: hsl(230, 28%, 40%);
+    background-color: #fff;
+}
+
+.text-muted{
+    color:#BCBBB;
+}
+
+.font-thin{
+    font-weight: 200;
+}
+
+.title-super{
+    font-size: 60px;
+}
+
+.title-logo{
+    margin-top: 30px;
+}
+
+
+.margin-bottom-large{
+    margin-bottom: 30px
+}
+
+.margin-top-small{
+    margin-top: 10px
+}
